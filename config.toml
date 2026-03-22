@@ -1,0 +1,183 @@
+baseURL = "https://3dprintmeup.com/"
+languageCode = "en-us"
+title = "3D Print Me Up"
+theme = "printwire"
+
+[params]
+tagline       = "Upload your design, pick your material, get it printed and delivered — consumer 3D printing made simple."
+description   = "3D Print Me Up is the consumer-friendly 3D printing marketplace — connecting designers with local and global print service providers. Upload any STL, pick material and finish, and receive your parts."
+keywords      = "3D print marketplace, upload and print, STL 3D printing service, consumer 3D printing, print my design, 3D printing platform, local 3D print service"
+logoEmoji     = "🚀"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#2563eb"
+colorPrimaryDark  = "#1d4ed8"
+colorPrimaryLight = "#60a5fa"
+colorBgDark       = "#020610"
+colorBgSection    = "#040a18"
+colorBgCard       = "#070f22"
+colorBgCardHover  = "#0b152e"
+
+fontPrimary   = "Inter"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"]
+
+heroEyebrow  = "Consumer 3D Printing Marketplace"
+heroTitle    = "3D Print <em>Me Up</em>"
+heroSubtitle = "Upload your design, pick your material, get it printed and delivered — consumer 3D printing made simple."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+overviewTitle   = "Your Design. Our Printers."
+overviewText    = "Upload your STL file — we match it with the best print service for your material, budget, and delivery timeline. Instant pricing. Trusted providers. Your parts delivered."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Me Up Services"
+servicesSubtitle = "Upload your design, pick your material, get it printed and delivered — consumer 3D printing made simple."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Upload your design, pick your material, get it printed and delivered — consumer 3D printing made simple."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 5000
+suffix = "+"
+label  = "Designs Printed Monthly"
+
+[[params.stats]]
+count  = 100
+suffix = "+"
+label  = "Print Service Partners"
+
+[[params.stats]]
+count  = 24
+suffix = "hr"
+label  = "Fastest Delivery Option"
+
+[[params.stats]]
+count  = 15
+suffix = "+"
+label  = "Materials Available"
+
+
+[[params.applications]]
+title       = "Consumer Products"
+description = "Custom phone cases, home decor, cosplay props, and personalised gifts — printed to order."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Engineering Parts"
+description = "Functional prototypes and replacement parts for engineers and inventors."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Art & Design"
+description = "Sculptures, architectural models, and design objects for artists and studios."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+[[params.applications]]
+title       = "Education"
+description = "Educational models, science projects, and maker community prints."
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🚀"
+title       = "Instant Upload & Quote"
+description = "Upload any STL file — get a live price from multiple providers in 60 seconds. Compare and order."
+
+[[params.servicesPreview]]
+icon        = "🎨"
+title       = "Material Selection"
+description = "PLA, PETG, resin, nylon, and flexible TPU — choose colour, finish, and infill for your specific application."
+
+[[params.servicesPreview]]
+icon        = "📍"
+title       = "Local Print Matching"
+description = "Match with local print services for same-day pickup — or choose global providers for the best price."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Design Help"
+description = "Design-for-printing review service — our experts check your file for printability before production."
+
+
+[[params.services]]
+name        = "Instant Upload & Quote"
+description = "Upload any STL file — get a live price from multiple providers in 60 seconds. Compare and order."
+icon        = "🚀"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "Material Selection"
+description = "PLA, PETG, resin, nylon, and flexible TPU — choose colour, finish, and infill for your specific application."
+icon        = "🎨"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "Local Print Matching"
+description = "Match with local print services for same-day pickup — or choose global providers for the best price."
+icon        = "📍"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+[[params.services]]
+name        = "Design Help"
+description = "Design-for-printing review service — our experts check your file for printability before production."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintmetal.com"
+url         = "https://3dprintmetal.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder for AM"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
