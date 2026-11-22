@@ -14,7 +14,7 @@ title = "3D Print Me Up"
 siteName      = "3D Print Me Up"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">ME&nbsp;UP</span>'
 tagline       = "Desktop and maker 3D printing — reviews, guides, and gear."
-description   = "3D Print Me Up — desktop and maker 3D printing: hands-on printer reviews, filament tests, beginner guides, and a directory of desktop printers, filaments, and maker tools."
+description   = "3D Print Me Up is a PrintWire network site about desktop 3D printing. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "desktop 3D printing, maker 3D printer, Bambu Lab, Prusa, Creality, filament reviews, resin printer, beginner 3D printing guides"
 logoEmoji     = "⌾"
 contactEmail  = "maxdavisgroup@gmail.com"
